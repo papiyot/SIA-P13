@@ -10,7 +10,7 @@ Projek ini dibuat menggunakna laravel 7, disini sudah disiapkan schema database 
 Alternatif [Laragon](https://laragon.org/download/)
 
 Jika, semua kebutuhan diatas sudah terpenuhi berikut cara penginstallannya :
-- git clone projek ini atau download, lalu ektra
+- [git clone projek ini atau download, lalu ektra](https://github.com/papiyot/SIA-P13)
 - jalankan composer install
 - setting database pada .env
 - jalankan php artisan migrate --seed
