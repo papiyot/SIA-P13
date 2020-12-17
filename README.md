@@ -19,7 +19,9 @@ Jika, semua kebutuhan diatas sudah terpenuhi berikut cara penginstallannya :
 - login
 
 User Login
+
 email : ichsan@email.com | luluk@email.com
+
 password : password
 
 Terima Kasih
